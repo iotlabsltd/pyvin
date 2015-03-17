@@ -172,7 +172,7 @@ class WMIDatabase(object):
                             os.path.dirname(
                                 os.path.abspath(__file__))),
                             "data", name)
-        print path, os.path.abspath(__file__)
+        # print path, os.path.abspath(__file__)
         self.db = {}
         with open(path, "r") as f:
             for line in f:
