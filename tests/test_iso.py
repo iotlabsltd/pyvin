@@ -5,14 +5,14 @@ from pyvin import VINDecoder
 
 class TestISO(unittest.TestCase):
     def test_valids(self):
-        expects = {"SCCFE33C9VHF65358": {"Region": "Europe",
-                                         "Country": "United Kingdom",
-                                         "Manufacturer": "Lotus",
-                                         "Model": "Unknown",
-                                         "Check": True,  # valid
-                                         "Year": 1997,
-                                         "Assembly plant": "H",
-                                         "Serial": "F65358"}}
+        expects = {"SCCFE33C9VHF65358": {"region": "Europe",
+                                         "country": "United Kingdom",
+                                         "manufacturer": "Lotus",
+                                         "model": "Unknown",
+                                         "check": True,  # valid
+                                         "year": 1997,
+                                         "assembly plant": "H",
+                                         "serial": "F65358"}}
         decoder = VINDecoder()
         for vin, e in expects.items():
             result = decoder.decode(vin)

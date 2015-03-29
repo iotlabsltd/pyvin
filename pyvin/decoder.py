@@ -39,11 +39,11 @@ class VINDecoder(object):
         region, country, manufacturer = self.parse_wmi(vin)
         model, check = self.parse_vds(vin, region, manufacturer)
         year, plant, serial = self.parse_vis(vin, region, manufacturer)
-        return {"Region": region,
-                "Country": country,
-                "Manufacturer": manufacturer,
-                "Model": model,
-                "Check": check,
-                "Year": year,
-                "Assembly plant": plant,
-                "Serial": serial}
+        return {"region": region,
+                "country": country,
+                "manufacturer": manufacturer,
+                "model": model,
+                "check": check,
+                "year": year,
+                "assembly plant": plant,
+                "serial": serial}
