@@ -322,6 +322,9 @@
 9BF, Ford
 9BW, Volkswagen
 9DW, Volkswagen
+AAV, Volkswagen
+AFA, Ford
+CL9, Wallyscar
 J81, Chevrolet,Geo
 J87, Isuzu
 J8B, Chevrolet
@@ -359,6 +362,8 @@ JLS, Sterling
 JM1, Mazda
 JM2, Mazda
 JM3, Mazda
+JMB, Mitsubish
+JMZ, Mazda
 JN1, Datsun, Nissan
 JN3, Nissan
 JN4, Nissan
@@ -403,27 +408,45 @@ KNA, Kia
 KND, Hyundai, Kia
 KNJ, Ford
 KPH, Mitsubishi
+KPT, SsangYong
 LES, Isuzu
 LM5, Isuzu
+LVZ, DFSK
 ML3, Dodge
+NMT, Toyota
 SA9, Morgan
 SAJ, Jaguar
 SAL, Land Rover
 SAT, Triumph
+SAR, Rover
 SAX, Sterling
+SB1, Toyota
 SCA, Rolls-Royce
 SCB, Bentley
 SCC, Lotus
+SCE, DeLorean
 SCF, Aston Martin
 SHH, Honda
 SHS, Honda
+SJN, Nissan
+TCC, SMART
+TMA, Hyundai
+TMB, Skoda
 TRU, Audi
+UU1, Dacia
+VA0, ÖAF
 VF1, Eagle
 VF3, Peugeot
+VF6, Volvo
+VF7, Citroën
+VFE, IvecoBus
 VG6, Mack
+VSS, SEAT
+VV9, Tauro Sport Auto
 W06, Cadillac
 WA1, Audi
 WAU, Audi
+WAP, Alpina
 WBA, BMW
 WBS, BMW
 WBX, BMW
@@ -438,20 +461,30 @@ WDD, Mercedes-Benz
 WDP, Dodge
 WDX, Dodge
 WDY, Dodge
+WEB, EvoBus
+WF0, Ford
 WF1, Merkur
+WJM, Iveco
+WJR, Irmscher
 WKK, Fahrzeugwerke
+WMA, MAN
 WME, Mercedes-Benz
+WMX, Mercedes-Benz
 WMW, Mini
 WP0, Porsche
 WP1, Porsche
 WUA, Audi
+WV1, Volkswagen
 WV2, Volkswagen
 WV3, Volkswagen
 WVG, Volkswagen
 WVW, Volkswagen
+W0L, Opel
 XTA, Lada
 YB3, Volvo
+YK1, Saab
 YS3, Saab
+YTN, Saab
 YV1, Volvo
 YV2, Volvo
 YV4, Volvo
@@ -460,6 +493,9 @@ ZA9, Lamborghini
 ZAM, Maserati
 ZAR, Alfa Romeo
 ZC2, Chrysler
+ZCF, Iveco
 ZFA, Fiat
 ZFF, Ferrari
-ZHWX, Lamborghini
+ZGA, Iveco
+ZHW, Lamborghini
+ZLA, Lancia
