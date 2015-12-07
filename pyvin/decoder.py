@@ -28,7 +28,10 @@ class VINDecoder(object):
         # XXX determine make and based on that get 1 or 2 character year code
         # from position 7 and 10 accordingly
         year_code = vis[0]
-        year = get_year(year_code)
+        try:
+            year = get_year(year_code)
+        except KeyError:
+            year = None
         plant = vis[1]
         serial = vis[2:]
         return year, plant, serial
@@ -39,11 +42,13 @@ class VINDecoder(object):
         region, country, manufacturer = self.parse_wmi(vin)
         model, check = self.parse_vds(vin, region, manufacturer)
         year, plant, serial = self.parse_vis(vin, region, manufacturer)
-        return {"region": region,
-                "country": country,
-                "manufacturer": manufacturer,
-                "model": model,
-                "check": check,
-                "year": year,
-                "assembly plant": plant,
-                "serial": serial}
+        return {
+            "region": region,
+            "country": country,
+            "manufacturer": manufacturer,
+            "model": model,
+            "check": check,
+            "year": year,
+            "assembly plant": plant,
+            "serial": serial,
+            }
