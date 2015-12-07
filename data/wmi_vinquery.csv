@@ -1,6 +1,7 @@
 10T, Oshkosh
 11V, Ottawa
 137, AM General, Hummer
+145, Hyundai
 15G, Gillig
 17N, John Deere
 18X, WRV
@@ -29,12 +30,14 @@
 1D8, Dodge
 1EC, Fleetwood
 1F1, Ford
+1F4, Ford
 1F6, Ford
 1FA, Ford
 1FB, Ford
 1FC, Ford
 1FD, Ford
 1FE, Ford
+1FF, Ford
 1FM, Ford
 1FT, Ford
 1FU, Freightliner
@@ -49,6 +52,7 @@
 1GA, Chevrolet
 1GB, Chevrolet
 1GC, Chevrolet
+1GN, Chevrolet
 1GD, GMC
 1GE, Cadillac
 1GF, Flexible
@@ -60,15 +64,21 @@
 1GN, Chevrolet
 1GT, GMC
 1GY, Cadillac
+1HF, Honda
 1HG, Honda
 1HS, International
 1HT, International
 1HV, International
 1J4, Jeep
+1J6, Jeep
 1J7, Jeep
 1J8, Jeep
 1JC, AMC, Jeep
 1JD, AMC
+1JE, Jeep
+1JF, Jeep
+1JH, Jeep
+1JM, Jeep
 1JT, AMC, Jeep
 1L1, Lincoln
 1LN, Lincoln
@@ -76,6 +86,7 @@
 1M2, Mack
 1M3, Mack
 1M8, MCI
+1MB, Mercedes-Benz
 1ME, Mercury
 1MR, Lincoln
 1N4, Nissan
@@ -120,6 +131,8 @@
 2B7, Dodge
 2B8, Dodge
 2BC, AMC, Jeep
+2BD, Jeep
+2BT, Jeep
 2C1, Chevrolet, Geo
 2C3, Chrysler
 2C4, Chrysler
@@ -127,6 +140,7 @@
 2C8, Chrysler
 2CC, AMC, Eagle
 2CK, Geo, Pontiac
+2CH, Chevrolet
 2CM, AMC
 2CN, Chevrolet, Geo
 2D4, Dodge
@@ -135,7 +149,10 @@
 2D8, Dodge
 2E3, Eagle
 2FA, Ford
+2FB, Ford
+2FC, Ford
 2FD, Ford
+2FF, Ford
 2FM, Ford
 2FT, Ford
 2FU, Freightliner
@@ -152,11 +169,14 @@
 2G8, Chevrolet
 2GA, Chevrolet
 2GB, Chevrolet
+2GC, Chevrolet
 2GD, GMC
 2GJ, GMC
 2GK, GMC
 2GN, Chevrolet
+2GM, Pontiac
 2GT, GMC
+2GY, Cadillac
 2HG, Honda
 2HH, Acura
 2HJ, Honda
@@ -166,6 +186,8 @@
 2HS, International
 2HT, International
 2J4, Jeep
+2J6, Jeep
+2J7, Jeep
 2LM, Lincoln
 2M2, Mack
 2ME, Mercury
@@ -180,8 +202,12 @@
 2PC, Prevost
 2S2, Suzuki
 2S3, Suzuki
+2S4, Suzuki
 2T1, Toyota
 2T2, Lexus
+2T3, Toyota
+2V4, Volkswagen
+2V8, Volkswagen
 2WK, Western Star Trucks
 2WL, Western Star Trucks
 2XK, Kenworth
@@ -201,14 +227,18 @@
 3C4, Chrysler
 3C8, Chrysler
 3CA, Chrysler
+3CE, Volvo
+3CZ, Honda
 3D3, Dodge
 3D5, Dodge
 3D6, Dodge
 3D7, Dodge
 3FA, Ford
+3FB, Ford
 3FC, Ford
 3FD, Ford
 3FE, Ford, Freightliner
+3FF, Ford
 3FR, Ford
 3FT, Ford
 3G1, Chevrolet
@@ -216,14 +246,19 @@
 3G4, Buick
 3G5, Buick
 3G7, Pontiac
+3G8, Chevrolet
+3GA, Chevrolet
 3GB, Chevrolet
 3GC, Chevrolet
 3GD, GMC
 3GE, Chevrolet
+3GG, Cadillac
 3GK, GMC
 3GN, Chevrolet
+3GM, Pontiac
 3GT, GMC
 3GY, Cadillac
+3H1, Honda
 3HA, International
 3HG, Honda
 3HM, Honda
@@ -233,6 +268,8 @@
 3MA, Mercury
 3ME, Mercury
 3N1, Nissan
+3N6, Nissan
+3N8, Nissan
 3NK, Kenworth
 3NM, Peterbilt
 3P3, Plymouth
@@ -241,6 +278,7 @@
 3WK, Kenworth
 45V, Utilimaster
 46G, Gillig
+478, Honda
 49H, Sterling
 4A3, Mitsubishi
 4A4, Mitsubishi
@@ -253,8 +291,10 @@
 4F4, Mazda
 4G1, Chevrolet
 4G2, Pontiac
+4GB, Chevrolet
 4GD, GMC
 4GT, Isuzu, WhiteGMC
+4J4, Jeep
 4JG, Mercedes-Benz
 4KB, Chevrolet
 4KD, GMC
@@ -280,9 +320,12 @@
 4V2, Volvo, WhiteGMC
 4V4, Volvo, WhiteGMC
 4V5, Volvo, WhiteGMC
+4V6, Volvo
 4VA, Volvo
 4VG, Volvo, WhiteGMC
 4VH, Volvo
+4VJ, Volvo
+4VK, Volvo
 4VL, Volvo
 4VM, Volvo
 4VZ, Spartan
@@ -290,6 +333,7 @@
 5B4, Workhorse
 5CK, Western Star Trucks
 5FN, Honda
+5FP, Honda
 5FY, New Flyer
 5GA, Buick
 5GR, Hummer
@@ -306,6 +350,7 @@
 5NM, Hyundai
 5NP, Hyundai
 5PV, Hino
+5SA, Suzuki
 5S3, Saab
 5SX, Amercian LeFrance
 5T4, Workhorse
@@ -315,12 +360,17 @@
 5TF, Toyota
 5UM, BMW
 5UX, BMW
+5XY, Kia
 5Y2, Pontiac
+5YM, BMW
+5Z6, Suzuki
 6G2, Pontiac
 6MM, Mitsubishi
 6MP, Mercury
 9BF, Ford
 9BW, Volkswagen
+9C2, Honda
+9DB, Mercedes-Benz
 9DW, Volkswagen
 AAV, Volkswagen
 AFA, Ford
@@ -328,7 +378,9 @@ CL9, Wallyscar
 J81, Chevrolet,Geo
 J87, Isuzu
 J8B, Chevrolet
+J8C, Chevrolet
 J8D, GMC
+J8Y, Chevrolet
 J8Z, Chevrolet
 JA3, Mitsubishi
 JA4, Mitsubishi
@@ -351,14 +403,19 @@ JF3, Subaru
 JF4, Saab
 JG1, Chevrolet, Geo
 JG7, Pontiac
-JGC, Geo
+JGC, Chevrolet, Geo
+JH2, Honda
+JH3, Honda
 JH4, Acura
 JHB, Hino
+JHK, Honda
 JHL, Honda
 JHM, Honda
 JJ3, Chrysler
 JL6, Mitsubishi
 JLS, Sterling
+JK8, Suzuki
+JKS, Suzuki
 JM1, Mazda
 JM2, Mazda
 JM3, Mazda
@@ -377,9 +434,12 @@ JP3, Plymouth
 JP4, Plymouth
 JP7, Plymouth
 JR2X, Isuzu
+JS1, Suzuki
 JS2, Suzuki
 JS3, Suzuki
 JS4, Suzuki
+JSA, Suzuki
+JSL, Suzuki
 JT2, Toyota
 JT3, Toyota
 JT4, Toyota
@@ -401,6 +461,8 @@ KL2, Pontiac
 KL5, Suzuki
 KL7, Asuna
 KLA, Daewoo
+KM1, Suzuki
+KM4, Suzuki
 KM8, Hyundai
 KMF, Hyundai
 KMH, Hyundai
@@ -410,9 +472,13 @@ KNJ, Ford
 KPH, Mitsubishi
 KPT, SsangYong
 LES, Isuzu
+LM1, Suzuki
+LM4, Suzuki
 LM5, Isuzu
+LN1, Suzuki
 LVZ, DFSK
 ML3, Dodge
+NM0, Ford
 NMT, Toyota
 SA9, Morgan
 SAJ, Jaguar
@@ -435,6 +501,7 @@ TMB, Skoda
 TRU, Audi
 UU1, Dacia
 VA0, ÖAF
+VBK, KTM
 VF1, Eagle
 VF3, Peugeot
 VF6, Volvo
@@ -442,11 +509,14 @@ VF7, Citroën
 VFE, IvecoBus
 VG6, Mack
 VSS, SEAT
+VTM, Honda
+VTT, Suzuki
 VV9, Tauro Sport Auto
 W06, Cadillac
 WA1, Audi
 WAU, Audi
 WAP, Alpina
+WB1, BMW
 WBA, BMW
 WBS, BMW
 WBX, BMW
@@ -454,14 +524,18 @@ WBY, BMW
 WD0, Dodge
 WD1, Dodge
 WD2, Dodge
+WD3, Mercedes-Benz
+WD4, Mercedes-Benz
 WD5, Dodge
 WD8, Dodge
+WDA, Mercedes-Benz
 WDB, Maybach, Mercedes-Benz
 WDC, Mercedes-Benz
 WDD, Mercedes-Benz
 WDP, Dodge
 WDX, Dodge
 WDY, Dodge
+WDZ, Mercedes-Benz
 WEB, EvoBus
 WF0, Ford
 WF1, Merkur
@@ -482,6 +556,7 @@ WVG, Volkswagen
 WVW, Volkswagen
 W0L, Opel
 XTA, Lada
+YC1, Honda
 YB3, Volvo
 YK1, Saab
 YS3, Saab
@@ -495,6 +570,7 @@ ZAM, Maserati
 ZAR, Alfa Romeo
 ZC2, Chrysler
 ZCF, Iveco
+ZDC, Honda
 ZFA, Fiat
 ZFF, Ferrari
 ZGA, Iveco
