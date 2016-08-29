@@ -408,9 +408,12 @@
 9C2, Honda
 9DB, Mercedes-Benz
 9DW, Volkswagen
-9Fb, Renault
+9FB, Renault
 AAV, Volkswagen
+AC5, Hyundai
+ADD, Hyundai
 AFA, Ford
+AHT, Toyota
 CL9, Wallyscar
 J81, Chevrolet,Geo
 J87, Isuzu
@@ -449,6 +452,7 @@ JHK, Honda
 JHL, Honda
 JHM, Honda
 JJ3, Chrysler
+JL5, Mitsubishi
 JL6, Mitsubishi
 JLS, Sterling
 JK8, Suzuki
@@ -456,7 +460,7 @@ JKS, Suzuki
 JM1, Mazda
 JM2, Mazda
 JM3, Mazda
-JMB, Mitsubish
+JMB, Mitsubishi
 JMZ, Mazda
 JN1, Datsun, Nissan
 JN3, Nissan
@@ -535,8 +539,16 @@ MA1, Mahindra
 MA3, Suzuki
 MA7, Honda
 MAL, Hyundai
+MDH, Nissan
+MEE, Renault
+MEX, Volkswagen
+MHF, Toyota Indonesia
 MHR, Honda
 ML3, Dodge
+MLC, Suzuki
+MLH, Honda
+MMB, Mitsubishi
+MMC, Mitsubishi
 MNB, Ford
 MNT, Nissan
 MMB, Mitsubishi
@@ -547,6 +559,7 @@ MPA, Isuzu
 MP1, Isuzu
 MRH, Honda
 MR0, Toyota
+NLA, Honda
 NLE, Mercedes-Benz
 NM0, Ford
 NM4, Tofas
@@ -586,18 +599,31 @@ TRA, Ikarus
 TRU, Audi
 TSE, Ikarus
 TSM, Suzuki
-UU1, Dacia
+TW1, Toyota
+TYA, Mitsubishi
+TYB, Mitsubishi
+U5Y, Kia
+U6Y, Kia
+UU1, Renault Dacia
+UU3, ARO
+UU6, Daewoo
 VA0, ÖAF
 VBK, KTM
 VF1, Renault
+VF2, Renault
 VF3, Peugeot
+VF4, Talbot
 VF6, Renault
 VF7, Citroën
 VF8, Matra
 VFE, IvecoBus
 VG6, Mack
 VLU, Scania
+VN1, SOVAB
 VNE, Irisbus
+VNK, Toyota
+VNV, Renault-Nissan
+VSA, Mercedes-Benz
 VSE, Suzuki
 VSK, Nissan
 VSS, SEAT
@@ -607,6 +633,7 @@ VS9, Carrocerias Ayats
 VTM, Honda
 VTT, Suzuki
 VV9, Tauro Sport Auto
+VWA, Nissan
 VWV, Volkswagen
 VX1, Zastava
 W06, Cadillac
@@ -646,6 +673,7 @@ WMX, Mercedes-Benz
 WMW, Mini
 WP0, Porsche
 WP1, Porsche
+W0L, Opel
 WUA, Audi
 WV1, Volkswagen
 WV2, Volkswagen
@@ -654,10 +682,26 @@ WVG, Volkswagen
 WVW, Volkswagen
 W0L, Opel
 XL9, Spyker
+XLB, Volvo
+XLE, Scania
+XLR, DAF
 XMC, Mitsubishi
 XTA, Lada
+XTT, UAZ/Sollers
+XUF, General Motors
+XUU, AvtoTor
+XW8, Volkswagen
+XWB, UZ-Daewoo
+XWE, AvtoTor
+X4X, AvtoTor
+X7L, Renault
+X7M, Hyundai
 YC1, Honda
+Y6D, Zaporozhets
 YB3, Volvo
+YBW, Volkswagen
+YCM, Mazda
+YE2, Van Hool
 YK1, Saab
 YS2, Scania
 YS3, Saab
@@ -668,21 +712,30 @@ YV2, Volvo
 YV3, Volvo
 YV4, Volvo
 YV5, Volvo
+Z8M, Marussia
 ZA9, Lamborghini
+ZAA, Autobianchi
 ZAM, Maserati
 ZAP, Piaggio/Vespa/Gilera
 ZAR, Alfa Romeo
+ZBN, Benelli
 ZC2, Chrysler
 ZCF, Iveco
 ZCG, Cagiva
 ZDC, Honda
 ZDF, Ferrari
+ZD0, Yamaha 
+ZD3, Beta Motor
 ZD4, Aprilia
 ZDM, Ducati
 ZFA, Fiat
 ZFC, Fiat
 ZFF, Ferrari
 ZGA, Iveco
+ZGU, Moto Guzzi
 ZHW, Lamborghini
+ZJM, Malaguti
+ZJN, Innocenti
+ZKH, Husqvarna
 ZLA, Lancia
 ZOM, OM
