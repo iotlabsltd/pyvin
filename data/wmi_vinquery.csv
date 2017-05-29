@@ -54,7 +54,7 @@
 1GA, Chevrolet
 1GB, Chevrolet
 1GC, Chevrolet
-1GM, Pontiac 
+1GM, Pontiac
 1GN, Chevrolet
 1GD, GMC
 1GE, Cadillac
@@ -395,7 +395,7 @@
 935, Citroen
 936, Peugeot
 93H, Honda
-93R, Toyota 
+93R, Toyota
 93U, Audi
 93Y, Renault
 9BF, Ford
@@ -657,6 +657,7 @@ WDA, Mercedes-Benz
 WDB, Mercedes-Benz
 WDC, Mercedes-Benz
 WDD, Mercedes-Benz
+WDF, Mercedes-Benz
 WDP, Dodge
 WDX, Dodge
 WDY, Dodge
@@ -724,7 +725,7 @@ ZCF, Iveco
 ZCG, Cagiva
 ZDC, Honda
 ZDF, Ferrari
-ZD0, Yamaha 
+ZD0, Yamaha
 ZD3, Beta Motor
 ZD4, Aprilia
 ZDM, Ducati
